@@ -1,4 +1,3 @@
-
 move north
 move west
 move down
@@ -11,5 +10,6 @@ s
 go up
 e
 s
+move est
 move east
 move south
