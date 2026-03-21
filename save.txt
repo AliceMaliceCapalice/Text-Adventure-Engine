@@ -1,3 +1,0 @@
-move north
-move west
-move down

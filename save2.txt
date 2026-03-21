@@ -1,0 +1,15 @@
+
+move north
+move west
+move down
+n
+w
+w
+get pirate hat
+e
+s
+go up
+e
+s
+move east
+move south
